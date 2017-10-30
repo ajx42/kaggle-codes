@@ -1,3 +1,3 @@
 # kaggle-codes
 
-ML Work for Kaggle Contests.
+Machine Learning Work for Kaggle Contests.
